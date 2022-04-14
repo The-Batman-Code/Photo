@@ -1,5 +1,5 @@
 # Photo😉
-This program reads images from the addresses stated in .jsonl file, draws boxes over them using the coordinates stated in the same .jsonl file and saves the at a particular destination folder.
+This program reads images from the addresses stated in .jsonl file, draws boxes over them using the coordinates stated in the same .jsonl file and saves the images at a particular destination folder.
 ## Requirements
 1. Python
 ## Python libraries required
